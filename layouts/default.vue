@@ -42,7 +42,7 @@ useHead({
             target="_blank"
             rel="noopener banner"
           >
-            Open on GitHub
+            Open on GitHub Hello
           </a>
         </span>
       </nav>
